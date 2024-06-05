@@ -1,0 +1,10 @@
+pandas
+streamlit
+numpy
+google-cloud-bigquery
+openpyxl
+xlrd
+python-dotenv
+db-dtypes
+xlsxwriter
+plotly
